@@ -1,0 +1,6 @@
+id=enable-emui8-gesture
+name=开启EMUI8全面屏手势
+version=v1
+versionCode=1
+author=awalol
+description=这个模块可以开启EMUI8部分机型隐藏的全面屏手势
